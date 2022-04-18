@@ -1,6 +1,11 @@
 # Suraj-Music-Player-App
-This is the music player with the interactive UI for the easy access for user This application can be used to play mp3 songs. The key features in this are as follows,
+This is the music player with the interactive UI for the easy access for user This application can be used to play mp3 songs.
 
+ ![WhatsApp Image 2022-04-18 at 3 59 40 PM](https://user-images.githubusercontent.com/101108540/163799852-3d9f0edd-db82-4ede-bcee-ee2c768aa77a.jpeg)
+
+
+
+     The key features in this are as follows,
     1.It contains the ability to fetch all the mp3 songs from the Local Storage.
     2.User can create his/her favourites playlist.
     3.Favourites playlist will be permanent until user deletes the songs.
